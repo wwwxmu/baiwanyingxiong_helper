@@ -23,6 +23,7 @@ python 2.7
 10. 进入baiwanyingxiong_helper目录下，python main.py
 11. 题目出现后按“回车”键自动搜索
 
-###参考
+### 参考
 【Skyexu】https://github.com/Skyexu/TopSup
+
 https://www.jianshu.com/p/dc828c4b901d
